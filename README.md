@@ -3,12 +3,14 @@
 Here, In this template, we will create a Cosmosdb account using the terraform module within a subscription.
 
 ---
+
 ##### Pre-Requisite
 
 * Azure Account
 * Pre Login into your Azure Account
 
 ---
+
 ### Steps
 
 * Login into your Azure portal.
